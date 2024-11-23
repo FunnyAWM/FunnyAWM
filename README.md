@@ -11,3 +11,4 @@
 如果长时间没有commit，有可能只是在玩游戏/睡大觉，~~也有可能赛博趋势了~~
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FunnyAWM&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FunnyAWM&show_icons=true&theme=dark&icon_color=FFFFFF) 
