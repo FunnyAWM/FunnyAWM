@@ -1,5 +1,5 @@
 # This is FunnyAWM
-Pro on writing bugs XD
+Pro on coding bugs XD
 
 Attending university as an undergraduate
 
