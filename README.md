@@ -24,6 +24,9 @@ Good at Sleeping and disappearing irregularly
 
 If there's no any commit for a long time, maybe just sleeping or gaming
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FunnyAWM&theme=dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FunnyAWM&show_icons=true&theme=dark&icon_color=FFFFFF)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FunnyAWM&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FunnyAWM&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FunnyAWM&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FunnyAWM&theme=github_dark&utcOffset=8)
+
 
